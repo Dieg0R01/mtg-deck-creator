@@ -10,5 +10,3 @@ Que vamos a usar:
 
 -Para la app en sí, conozco react native que será un derivado para aplicaciones android del framework de react y supongo que será fácil de montar algo consistente y responsivo.
 
-## Cuando toques una teta vas a flipar
-### he cuando dejes de jugar azul me avisas
