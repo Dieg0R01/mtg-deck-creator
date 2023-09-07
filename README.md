@@ -9,3 +9,5 @@ Que vamos a usar:
 -Como base de datos seguramente una mySQL rápida, ya detallaremos más. Y la ORM también dependerá de la tecnología que utilicemos para la app, algo como Prima vendría bien.
 
 -Para la app en sí, conozco react native que será un derivado para aplicaciones android del framework de react y supongo que será fácil de montar algo consistente y responsivo.
+
+##Cuando toques una teta vas a flipar
