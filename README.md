@@ -7,7 +7,7 @@ Luego la aplicación en si tendrá una ventana con un editor de mazos, primero v
 
 De momento obviamente no nos vamos a venir arriba y vamos a crear un sistema para mazos de 60, commander ya lo incluiremos si nos funciona esto, y luego también que a parte de solo mirar la base de datos sugiera cartas que no tengas tipo si quieres un mazo de goblins y no tienes suficientes goblins pues te sugiera cartas que no esten en la base de datos.  
 
-Que vamos a usar:
+Que vamos a usar:  
 -Para la lógica del programa creo que conviene c++ o ruby (ruby es una opción flexible y rápida para crear un sistema, y c++ nos puede ayudar con la optimización de los algoritmos)
 
 -Como base de datos seguramente una mySQL rápida, ya detallaremos más. Y la ORM también dependerá de la tecnología que utilicemos para la app, algo como Prima vendría bien.
