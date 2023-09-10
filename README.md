@@ -10,3 +10,5 @@ Que vamos a usar:
 
 -Para la app en sí, conozco react native que será un derivado para aplicaciones android del framework de react y supongo que será fácil de montar algo consistente y responsivo.
 
+API de magic
+https://docs.magicthegathering.io/
