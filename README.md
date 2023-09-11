@@ -20,7 +20,7 @@ https://docs.magicthegathering.io/
 Lluvia de ideas para tipos de cartas:
 --- 
 ### Tierras
--Monocromáticas  
+-Básicas  
 -Bicromáticas  
 -Bicromáticas y tienen otra habilidad  
 -Agregan incoloras  
