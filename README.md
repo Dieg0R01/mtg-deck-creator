@@ -12,8 +12,27 @@ Que vamos a usar:
 -Para la lógica del programa creo que conviene c++ o ruby (ruby es una opción flexible y rápida para crear un sistema, y c++ nos puede ayudar con la optimización de los algoritmos)
 
 -Como base de datos seguramente una mySQL rápida, ya detallaremos más. Y la ORM también dependerá de la tecnología que utilicemos para la app, algo como Prisma vendría bien.
-
 -Para la app en sí, conozco react native que es un derivado para aplicaciones android del framework de react y supongo que será fácil de montar algo consistente y responsivo.
 
 API de magic
 https://docs.magicthegathering.io/
+
+Lluvia de ideas para tipos de cartas:
+--- 
+### Tierras
+-Monocromáticas  
+-Bicromáticas  
+-Bicromáticas y tienen otra habilidad  
+-Agregan incoloras  
+-Agregan incoloras y tienen otra habilidad  
+### Conjuros
+-Destructivas : habilidades para ataques moméntaneos, a veces con coste exigente de maná  
+-Regenerativas : también con costes elevados pero aumentan la velocidad de juego de tu mazo  
+-Positivización : mejoran el combate de las criaturas, recomendable cuando tengas criaturas que aguantes turno tras turno  
+-Nivelización : efecto en todos los jugadores. Barremesas  
+### Instantáneos
+### Encantamientos
+
+
+
+
